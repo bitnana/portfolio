@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.ee99c345.chunk.css",
-    "main.js": "/portfolio/static/js/main.92e4d809.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.92e4d809.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.215f4d7a.chunk.css",
+    "main.js": "/portfolio/static/js/main.c2c892b1.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.c2c892b1.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.adebb3f4.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.adebb3f4.js.map",
     "static/css/2.749e03c2.chunk.css": "/portfolio/static/css/2.749e03c2.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.fb55e438.chunk.js.map": "/portfolio/static/js/3.fb55e438.chunk.js.map",
     "index.html": "/portfolio/index.html",
     "static/css/2.749e03c2.chunk.css.map": "/portfolio/static/css/2.749e03c2.chunk.css.map",
-    "static/css/main.ee99c345.chunk.css.map": "/portfolio/static/css/main.ee99c345.chunk.css.map",
+    "static/css/main.215f4d7a.chunk.css.map": "/portfolio/static/css/main.215f4d7a.chunk.css.map",
     "static/js/2.ea7cba9f.chunk.js.LICENSE.txt": "/portfolio/static/js/2.ea7cba9f.chunk.js.LICENSE.txt",
     "static/media/App.css": "/portfolio/static/media/Urbanist-SemiBold.f4056d97.ttf",
     "static/media/detail.css": "/portfolio/static/media/phone.efa5a369.png",
@@ -27,7 +27,7 @@
     "static/js/runtime-main.adebb3f4.js",
     "static/css/2.749e03c2.chunk.css",
     "static/js/2.ea7cba9f.chunk.js",
-    "static/css/main.ee99c345.chunk.css",
-    "static/js/main.92e4d809.chunk.js"
+    "static/css/main.215f4d7a.chunk.css",
+    "static/js/main.c2c892b1.chunk.js"
   ]
 }
