@@ -1,4 +1,4 @@
-# portfolio
+# Nana's Portfolio
 This is Nana's portfolio.
 Hello guys. Welcome to Nana's  Portfolio.
 
